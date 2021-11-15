@@ -9,4 +9,8 @@ public class Musica {
 	float fama;
 	boolean tocandoRadio;
 	
+	void tocar() {
+		System.out.println("Tocando música");
+	}
+	
 }
