@@ -1,4 +1,4 @@
-package oo.aula2;
+package oo.aula02;
 
 public class Musica {
 	String nome;

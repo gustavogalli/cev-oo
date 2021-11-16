@@ -1,4 +1,4 @@
-package oo.aula2;
+package oo.aula02;
 
 public class Caneta {
 //	Atributos
